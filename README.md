@@ -1,5 +1,5 @@
 # Luba-OS
-# Building a MetalSoft Ubuntu unattended install template
+# Building a Luba-OS 
 
 To create an unattended install based local template use the script provided:
 
